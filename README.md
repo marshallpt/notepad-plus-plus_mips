@@ -7,7 +7,7 @@ and  Runtime Simulator)](http://courses.missouristate.edu/KenVollmar/MARS/index.
   <img src="assets/comparison.png" alt="Comparison Image"/>
 </p>
 
-The only two differences I could find:
+The differences I'm currently aware of:
 
 1. Labels are not _italicized_ in N++. This is because I couldn't figure out 
 how to do it [with UDL](https://ivan-radic.github.io/udl-documentation/), and
