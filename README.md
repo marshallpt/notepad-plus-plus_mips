@@ -18,8 +18,9 @@ desirable. There's probably a better option than purple, but that's
 just what made sense in the moment.
 
 # Installation Instructions
-1. Go to the [releases](https://github.com/marshallpt/notepad-plus-plus_mips/releases) and download the latest `mips-mars-style.xml`, or clone the repo.
-1. In Notepad++: in the title bar, go to **Language -> User Defined Language -> 
+1. Go to the [releases](https://github.com/marshallpt/notepad-plus-plus_mips/releases)
+ and download the latest `mips-mars-style.xml`, or clone the repo.
+1. In Notepad++: from the title bar, go to **Language -> User Defined Language -> 
 Define your language -> Import**
 1. Navigate to wherever you downloaded `mips-mars-style.xml` and select it.
 
